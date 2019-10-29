@@ -164,10 +164,11 @@ input[type=text], select, textarea {
     background-color: #4aaaa5;
   }
  
-  .container {
+  .container1 {
     border-radius: 5px;
     background-color: #fff;
     padding: 20px;
+    width: 900px;
   }
 
   label {
@@ -181,7 +182,7 @@ input[type=text], select, textarea {
     {
         background-color: #ffffff;
         position: static;
-        width: 750px;
+        width: 700px;
         text-align: left;
         height: 950px;
         margin: 0 auto;
@@ -216,7 +217,7 @@ input[type=text], select, textarea {
     float: left;
     left: 0;
     z-index: 2;
-    margin-left: 30px;
+    margin-left: 10px;
     margin-bottom: 20px;
     padding-top: 10px;
 }
@@ -236,7 +237,7 @@ input[type=text], select, textarea {
     float: left;
     left: 0;
     z-index: 2;
-    margin-left: 30px;
+    margin-left: 10px;
     margin-bottom: 20px;
     padding-top: 10px;
 }
@@ -256,7 +257,7 @@ input[type=text], select, textarea {
     float: left;
     left: 0;
     z-index: 2;
-    margin-left: 30px;
+    margin-left: 10px;
     margin-bottom: 20px;
     padding-top: 10px;
 }
@@ -276,7 +277,7 @@ input[type=text], select, textarea {
     float: left;
     left: 0;
     z-index: 2;
-    margin-left: 30px;
+    margin-left: 10px;
     margin-bottom: 20px;
     padding-top: 10px;
 }
@@ -296,7 +297,7 @@ input[type=text], select, textarea {
     position: absolute;
     float: left;
     left: 0;
-    margin-left: 30px;
+    margin-left: 10px;
     margin-bottom: 20px;
     z-index: 2;
     padding-top: 10px;
